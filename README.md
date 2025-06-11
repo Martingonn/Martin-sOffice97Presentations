@@ -1,4 +1,4 @@
-# MartinsOffice97Presentations
+# Martin's Office 97 Presentations
 Made using Office 97 on Windows XP VM.
 
 List includes:
