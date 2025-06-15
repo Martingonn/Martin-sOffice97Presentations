@@ -3,3 +3,4 @@ Made using Office 97 on Windows XP VM or using Office 95 on Windows NT VM.
 
 List includes:
 * Reasons why Office 97 is good in 2025
+* Reasons why Windows NT is great for offices in 2025
